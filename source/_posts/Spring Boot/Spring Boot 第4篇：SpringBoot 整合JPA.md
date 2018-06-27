@@ -14,6 +14,8 @@ JPA 的目标之一是制定一个可以由很多供应商实现的API，并且�
 
 JPA是需要Provider来实现其功能的，Hibernate就是JPA Provider中很强的一个，应该说无人能出其右。从功能上来说，JPA就是Hibernate功能的一个子集。
 
+<!-- more -->
+
 ## 添加相关依赖
 
 添加spring-boot-starter-jdbc依赖：

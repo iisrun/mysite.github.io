@@ -13,9 +13,14 @@ tags:   #标签
 ## 准备工作
 
 - jdk 1.8
+
 - maven 3.0
+
 - idea
+
 - mysql
+
+<!-- more -->
 
 初始化mysql:
 

@@ -10,6 +10,8 @@ tags:   #标签
 ---
 这篇文章主要介绍springboot整合redis，至于没有接触过redis的同学可以看下这篇文章：5分钟带你入门Redis。
 
+<!-- more -->
+
 ## 引入依赖：
 
 在pom文件中添加redis依赖：

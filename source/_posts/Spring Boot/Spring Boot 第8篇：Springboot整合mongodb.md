@@ -19,6 +19,8 @@ tags:   #标签
 
 在pom文件引入spring-boot-starter-data-mongodb依赖：
 
+<!-- more -->
+
 ```xml
 <dependency>
 	<groupId>org.springframework.boot</groupId>

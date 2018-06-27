@@ -10,6 +10,8 @@ tags:   #标签
 ---
 这篇文章将带你了解如何用spring官方推荐的restdoc去生成api文档。本文创建一个简单的springboot工程，将http接口通过Api文档暴露出来。只需要通过 JUnit单元测试和Spring的MockMVC就可以生成文档。
 
+<!-- more -->
+
 ## 准备工作
 
 - 你需要15min
@@ -20,7 +22,6 @@ tags:   #标签
 #### 创建工程
 
 引入依赖，其pom文件：
-
 ```xml
 <dependencies>
 	<dependency>

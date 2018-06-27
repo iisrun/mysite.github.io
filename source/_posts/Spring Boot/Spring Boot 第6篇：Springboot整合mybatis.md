@@ -10,6 +10,8 @@ tags:   #标签
 ---
 本文主要讲解如何在springboot下整合mybatis，并访问数据库。由于mybatis这个框架太过于流行，所以我就不讲解了。
 
+<!-- more -->
+
 ## 引入依赖
 
 在pom文件引入mybatis-spring-boot-starter的依赖：
