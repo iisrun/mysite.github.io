@@ -82,3 +82,27 @@ deploy:
   type: git
   repo: git@github.com:Hidong/mysite.github.io.git
   branch: master
+# 宠物设置
+# Live2D
+## https://github.com/xiazeyu/live2d-widget.js
+## https://l2dwidget.js.org/docs/class/src/index.js~L2Dwidget.html#instance-method-init
+## https://github.com/EYHN/hexo-helper-live2d/blob/HEAD/README.zh-CN.md
+live2d:
+  model:
+    scale: 1
+    hHeadPos: 0.5
+    vHeadPos: 0.618
+    use: live2d-widget-model-wanko
+  display:
+    superSample: 2
+    width: 75
+    height: 150
+    position: right
+    hOffset: 0
+    vOffset: -20
+  mobile:
+    show: false
+    scale: 0.5
+  react:
+    opacityDefault: 0.7
+    opacityOnHover: 0.2
