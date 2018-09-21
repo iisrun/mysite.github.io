@@ -45,6 +45,7 @@
 <i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
   本站访客数:<span id="busuanzi_value_site_uv"></span>
 </span>
+<a href="http://www.miibeian.gov.cn/">豫ICP备 15014660号</a>
 </div>
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
