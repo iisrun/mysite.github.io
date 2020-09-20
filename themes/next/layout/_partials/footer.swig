@@ -43,7 +43,7 @@
 -->
 <div class="powered-by">
 <i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
-  本站访客数:<span id="busuanzi_value_site_uv"></span>
+  本站访客数:<span id="busuanzi_value_site_uv">6666</span>
 </span>
 <a href="http://beian.miit.gov.cn">豫ICP备 15014660号</a>
 </div>
